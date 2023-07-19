@@ -1,0 +1,28 @@
+* {
+    background-color:beige;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    padding: 0 200px;
+}
+
+.head-main,
+.head-sub {
+    color: darkred;
+    font-weight: bold;
+}
+
+.head-main{
+    text-align: center;
+    font-size: 40px;
+}
+
+img {
+    height:400px;
+    width:auto;
+    align-self: center;
+}
+
