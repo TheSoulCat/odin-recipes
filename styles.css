@@ -5,7 +5,9 @@
 body {
     font-family:'Times New Roman', Times, serif;
     font-size: large;
-    background-color: rgb(68, 0, 0);
+    background-image: url(./images/veggies.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 
 div {
@@ -23,7 +25,8 @@ h4 {
 }
 
 .heading {
-    text-align: center;    
+    text-align: center; 
+    font-size: 70px;   
 }
 
 img {
