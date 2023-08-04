@@ -7,14 +7,14 @@ body {
     font-size: large;
     background-image: url(./images/veggies.webp);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
 }
 
 div {
     margin: auto;
     background-color: beige;
     max-width: 1000px;
-    height: 800px;
+    height: 1300px;
 }
  
 h1,
