@@ -14,7 +14,9 @@ div {
     margin: auto;
     background-color: beige;
     max-width: 1000px;
-    height: 1600px;
+    height: 1700px;
+    padding-top: 5px;
+    border: 15px solid darkred;
 }
  
 h1,
@@ -24,6 +26,12 @@ h4 {
     font-weight: bold;
 }
 
+hr {
+   height: 12px;
+   background: linear-gradient(darkred, beige);
+   margin: 0 20px 20px 20px;
+}
+
 .heading {
     text-align: center; 
     font-size: 70px;   
@@ -31,5 +39,15 @@ h4 {
 
 img {
     height:400px;
-    width:auto;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid brown;
    }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
